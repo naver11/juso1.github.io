@@ -1,0 +1,1342 @@
+{
+    "推荐1区": [{
+            "title": "툰코",
+            "href": "https://tkor.hair/",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "펀비",
+            "href": "https://funbe.sale/",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "뉴토끼",
+            "href": "https://newtoki118.com/",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "망가켓",
+            "href": "https://mangacat.net/",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "늑대닷컴",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "밤토끼",
+            "href": "https://bam233co.com/",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "블랙툰",
+            "href": "http://blacktoon.link/",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "호두코믹스",
+            "href": "https://hodu228.net/",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "히토미",
+            "href": "https://hitomi.la/",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "섹툰",
+            "href": "https://sektoon15.org/",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐2区": [{
+            "title": "오피스텔",
+            "href": "http://www.naver.com",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "오피스텔2",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "오피스텔3",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "오피스텔4",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "오피스텔5",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "오피스텔6",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "오피스텔7",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "오피스텔8",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "오피스텔9",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "오피스텔10",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐3区": [{
+            "title": "먹튀중개소",
+            "href": "#",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "먹튀검증소",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "카지노사냥",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "먹튀마리오",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "베팅노리",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "N토토",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "토토안내소",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "토토군",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "토토일보",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "먹튀안내소",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐4区": [{
+            "title": "소나기티비",
+            "href": "#",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "홍무비",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "초코TV",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "야플릭스",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "코리안즈",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "메가티비",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "구멍티비",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "티비우산",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "티비박스",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "티비퐁",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐5区": [{
+            "title": "토렌트큐큐",
+            "href": "#",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "토다와",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "토렌트하자",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "토렌트노리",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "토렌트보자",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "토렌트킹",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "토렌트후",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "섹토렌트",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "토렌트씨",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "토스트",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐6区": [{
+            "title": "쿨TV",
+            "href": "#",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "메이저",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "네네TV",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "굿라이브TV",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "토잘알TV",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "금TV",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "라이브스코어",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "오즈포탈",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "빅윈티비",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "해골TV",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐7区": [{
+            "title": "오피1",
+            "href": "http://www.naver.com",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "오피2",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "오피3",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "오피4",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "오피5",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "오피6",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "오피7",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "오피8",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "오피9",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "오피10",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐8区": [{
+            "title": "인벤",
+            "href": "#",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "디시인사이드",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "일간베스트",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "이토랜드",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "웃긴대학",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "졸잼",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "모해유머",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "에펨코리아",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "가생이닷컴",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "츄잉",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐9区": [{
+            "title": "야나도",
+            "href": "#",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "나이트몰",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "토이러브",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "리얼돌쇼핑몰",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "핑크박스샵",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "바나나몰",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "딩동",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "응큼샵",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "봉봉몰",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "찐바나나몰",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐10区": [{
+            "title": "[네덜란드]데일리NL",
+            "href": "#",
+            "color": "#ff3085",
+            "icon": "https://ygy02.com/assets/images/1.png"
+        },
+        {
+            "title": "[뉴질랜드]오클랜드",
+            "href": "#",
+            "color": "#5ebf39",
+            "icon": "https://ygy02.com/assets/images/2.png"
+        },
+        {
+            "title": "[뉴질랜드]뉴질랜드타임즈",
+            "href": "#",
+            "color": "#0054EF",
+            "icon": "https://ygy02.com/assets/images/3.png"
+        },
+        {
+            "title": "[덴마크]NAKED",
+            "href": "#",
+            "color": "#560A86",
+            "icon": "https://ygy02.com/assets/images/4.png"
+        },
+        {
+            "title": "[뉴질랜드]코리아포스트",
+            "href": "#",
+            "color": "#017297",
+            "icon": "https://ygy02.com/assets/images/5.png"
+        },
+        {
+            "title": "[러시아]코리언스",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/6.png"
+        },
+        {
+            "title": "[미국]미스USA",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/7.png"
+        },
+        {
+            "title": "[독일]교포신문",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/8.png"
+        },
+        {
+            "title": "[독일]구텐탁코리아",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/9.png"
+        },
+        {
+            "title": "[미국]뉴욕코리아",
+            "href": "#",
+            "color": "#000000",
+            "icon": "https://ygy02.com/assets/images/10.png"
+        }
+    ],
+    "推荐1区头部信息": {
+        "title": "웹툰 Top10",
+        "icon": "https://ygy02.com/assets/images/ico04.png",
+        "href": "#"
+    },
+    "推荐2区头部信息": {
+        "title": "成인 Top10",
+        "icon": "https://ygy02.com/assets/images/ico03.png",
+        "href": "#"
+    },
+    "推荐3区头部信息": {
+        "title": "검증 Top10",
+        "icon": "https://ygy02.com/assets/images/ico02.png",
+        "href": "#"
+    },
+    "推荐4区头部信息": {
+        "title": "드라마 Top10",
+        "icon": "https://ygy02.com/assets/images/ico01.png",
+        "href": "#"
+    },
+    "推荐5区头部信息": {
+        "title": "토렌트 Top10",
+        "icon": "https://ygy02.com/assets/images/ico04.png",
+        "href": "#"
+    },
+    "推荐6区头部信息": {
+        "title": "스포츠 Top10",
+        "icon": "https://ygy02.com/assets/images/ico04.png",
+        "href": "#"
+    },
+    "推荐7区头部信息": {
+        "title": "오피 Top10",
+        "icon": "https://ygy02.com/assets/images/ico04.png",
+        "href": "#"
+    },
+    "推荐8区头部信息": {
+        "title": "커뮤니티 Top10",
+        "icon": "https://ygy02.com/assets/images/ico04.png",
+        "href": "#"
+    },
+    "推荐9区头部信息": {
+        "title": "쇼핑19 Top10",
+        "icon": "https://ygy02.com/assets/images/ico04.png",
+        "href": "#"
+    },
+    "推荐10区头部信息": {
+        "title": "한인교민 Top10",
+        "icon": "https://ygy02.com/assets/images/ico04.png",
+        "href": "#"
+    },
+    "尾部第一栏": [{
+            "msg": "G마켓",
+            "href": "https://www.gmarket.co.kr/"
+        },
+        {
+            "msg": "옥션",
+            "href": "http://www.auction.co.kr/"
+        },
+        {
+            "msg": "11번가",
+            "href": "https://www.11st.co.kr"
+        },
+        {
+            "msg": "쿠팡",
+            "href": "#"
+        },
+        {
+            "msg": "다나와",
+            "href": "#"
+        },
+        {
+            "msg": "티몬",
+            "href": "#"
+        },
+        {
+            "msg": "현대홈쇼핑",
+            "href": "#"
+        },
+        {
+            "msg": "Cjmall",
+            "href": "#"
+        },
+        {
+            "msg": "아웃도어스",
+            "href": "#"
+        },
+        {
+            "msg": "팝콘피씨",
+            "href": "#"
+        },
+        {
+            "msg": "롯데닷컴",
+            "href": "#"
+        },
+        {
+            "msg": "위메프",
+            "href": "#"
+        },
+        {
+            "msg": "올리브영",
+            "href": "#"
+        },
+        {
+            "msg": "신라인터넷면세점",
+            "href": "#"
+        },
+        {
+            "msg": "신세계몰",
+            "href": "#"
+        },
+        {
+            "msg": "큐텐",
+            "href": "#"
+        },
+        {
+            "msg": "무신사스토어",
+            "href": "#"
+        },
+        {
+            "msg": "더현대닷컴",
+            "href": "#"
+        },
+        {
+            "msg": "신세계인터내셔날",
+            "href": "#"
+        },
+        {
+            "msg": "바트웹",
+            "href": "#"
+        }
+    ],
+    "尾部第二栏": [{
+            "msg": "고구마티비",
+            "href": "https://xn--299akkm03ahpe894a.com/"
+        },
+        {
+            "msg": "원프로티비",
+            "href": "#"
+        },
+        {
+            "msg": "메가박스",
+            "href": "#"
+        },
+        {
+            "msg": "씨네큐브",
+            "href": "#"
+        },
+        {
+            "msg": "네이버영화",
+            "href": "#"
+        },
+        {
+            "msg": "다음영화",
+            "href": "#"
+        },
+        {
+            "msg": "네이트영화",
+            "href": "#"
+        },
+        {
+            "msg": "씨네21",
+            "href": "#"
+        },
+        {
+            "msg": "롯데시네마",
+            "href": "#"
+        },
+        {
+            "msg": "넷플릭스",
+            "href": "#"
+        },
+        {
+            "msg": "HBO",
+            "href": "#"
+        },
+        {
+            "msg": "Popcornflix",
+            "href": "#"
+        },
+        {
+            "msg": "ROKU",
+            "href": "#"
+        },
+        {
+            "msg": "Vudu",
+            "href": "#"
+        },
+        {
+            "msg": "SnagFilms",
+            "href": "#"
+        },
+        {
+            "msg": "Yidio",
+            "href": "#"
+        },
+        {
+            "msg": "Pluto TV",
+            "href": "#"
+        },
+        {
+            "msg": "Tubi TV",
+            "href": "#"
+        },
+        {
+            "msg": "판도라TV",
+            "href": "#"
+        },
+        {
+            "msg": "옥수수TV",
+            "href": "#"
+        }
+    ],
+    "尾部第三栏": [{
+            "msg": "바이브",
+            "href": "https://vibe.naver.com"
+        },
+        {
+            "msg": "멜론",
+            "href": "#"
+        },
+        {
+            "msg": "지니",
+            "href": "#"
+        },
+        {
+            "msg": "벅스",
+            "href": "https://bugs.co.kr/"
+        },
+        {
+            "msg": "엠넷",
+            "href": "#"
+        },
+        {
+            "msg": "인라이브",
+            "href": "#"
+        },
+        {
+            "msg": "올레뮤직",
+            "href": "#"
+        },
+        {
+            "msg": "소리바다",
+            "href": "#"
+        },
+        {
+            "msg": "플로",
+            "href": "#"
+        },
+        {
+            "msg": "카카오뮤직",
+            "href": "#"
+        },
+        {
+            "msg": "인터파크티켓",
+            "href": "#"
+        },
+        {
+            "msg": "티켓링크",
+            "href": "#"
+        },
+        {
+            "msg": "YES24",
+            "href": "#"
+        },
+        {
+            "msg": "옥션티켓",
+            "href": "#"
+        },
+        {
+            "msg": "티켓베이",
+            "href": "#"
+        },
+        {
+            "msg": "하나티켓",
+            "href": "#"
+        },
+        {
+            "msg": "사랑티켓",
+            "href": "#"
+        },
+        {
+            "msg": "티켓비스",
+            "href": "#"
+        },
+        {
+            "msg": "메세나테켓",
+            "href": "#"
+        },
+        {
+            "msg": "올레뮤직",
+            "href": "#"
+        }
+    ],
+    "尾部第四栏": [{
+            "msg": "피망",
+            "href": "#"
+        },
+        {
+            "msg": "넥슨",
+            "href": "#"
+        },
+        {
+            "msg": "한게임",
+            "href": "#"
+        },
+        {
+            "msg": "넷마블",
+            "href": "#"
+        },
+        {
+            "msg": "PLAY NC",
+            "href": "#"
+        },
+        {
+            "msg": "블리자드",
+            "href": "#"
+        },
+        {
+            "msg": "게임빌",
+            "href": "#"
+        },
+        {
+            "msg": "엠게임",
+            "href": "#"
+        },
+        {
+            "msg": "다음게임",
+            "href": "#"
+        },
+        {
+            "msg": "카카오게임",
+            "href": "#"
+        },
+        {
+            "msg": "게임동아",
+            "href": "#"
+        },
+        {
+            "msg": "Y8",
+            "href": "#"
+        },
+        {
+            "msg": "Narara",
+            "href": "#"
+        },
+        {
+            "msg": "플레시365",
+            "href": "#"
+        },
+        {
+            "msg": "게임엔젤",
+            "href": "#"
+        },
+        {
+            "msg": "arcadeprehacks",
+            "href": "#"
+        },
+        {
+            "msg": "조아게임",
+            "href": "#"
+        },
+        {
+            "msg": "고전게임나라",
+            "href": "#"
+        },
+        {
+            "msg": "고전게임천국",
+            "href": "#"
+        },
+        {
+            "msg": "두기고전게임",
+            "href": "#"
+        }
+    ],
+    "尾部第五栏": [{
+            "msg": "KBS",
+            "href": "#"
+        },
+        {
+            "msg": "MBC",
+            "href": "#"
+        },
+        {
+            "msg": "SBS",
+            "href": "#"
+        },
+        {
+            "msg": "JTBC",
+            "href": "#"
+        },
+        {
+            "msg": "tvN",
+            "href": "#"
+        },
+        {
+            "msg": "EBS",
+            "href": "#"
+        },
+        {
+            "msg": "YTN",
+            "href": "#"
+        },
+        {
+            "msg": "채널A",
+            "href": "#"
+        },
+        {
+            "msg": "MBN",
+            "href": "#"
+        },
+        {
+            "msg": "매일경제",
+            "href": "#"
+        },
+        {
+            "msg": "머니투데이",
+            "href": "#"
+        },
+        {
+            "msg": "문화일보",
+            "href": "#"
+        },
+        {
+            "msg": "스포탈코리아",
+            "href": "#"
+        },
+        {
+            "msg": "시사인",
+            "href": "#"
+        },
+        {
+            "msg": "아시아경제",
+            "href": "#"
+        },
+        {
+            "msg": "연합뉴스TV",
+            "href": "#"
+        },
+        {
+            "msg": "이데일리TV",
+            "href": "#"
+        },
+        {
+            "msg": "일간스포츠",
+            "href": "#"
+        },
+        {
+            "msg": "전자신문",
+            "href": "#"
+        },
+        {
+            "msg": "중앙데일리",
+            "href": "#"
+        }
+    ],
+    "尾部第六栏": [{
+            "msg": "YES24",
+            "href": "#"
+        },
+        {
+            "msg": "교보문고",
+            "href": "#"
+        },
+        {
+            "msg": "알라딘",
+            "href": "#"
+        },
+        {
+            "msg": "영풍문고",
+            "href": "#"
+        },
+        {
+            "msg": "경향신문",
+            "href": "#"
+        },
+        {
+            "msg": "중앙일보",
+            "href": "#"
+        },
+        {
+            "msg": "조선일보",
+            "href": "#"
+        },
+        {
+            "msg": "동아일보",
+            "href": "#"
+        },
+        {
+            "msg": "밀리의 서재",
+            "href": "#"
+        },
+        {
+            "msg": "도서인터파크",
+            "href": "#"
+        },
+        {
+            "msg": "국립중앙도서관",
+            "href": "#"
+        },
+        {
+            "msg": "경남일보",
+            "href": "#"
+        },
+        {
+            "msg": "강원일보",
+            "href": "#"
+        },
+        {
+            "msg": "한국공업신문사",
+            "href": "#"
+        },
+        {
+            "msg": "대한일보",
+            "href": "#"
+        },
+        {
+            "msg": "부산일보",
+            "href": "#"
+        },
+        {
+            "msg": "건설산업신문",
+            "href": "#"
+        },
+        {
+            "msg": "해운산업신문",
+            "href": "#"
+        },
+        {
+            "msg": "발전산업신문",
+            "href": "#"
+        },
+        {
+            "msg": "물산업신문",
+            "href": "#"
+        }
+    ],
+    "尾部第七栏": [{
+            "msg": "카카오뱅크",
+            "href": "#"
+        },
+        {
+            "msg": "KB국민은행",
+            "href": "#"
+        },
+        {
+            "msg": "농협은행",
+            "href": "#"
+        },
+        {
+            "msg": "기업은행",
+            "href": "#"
+        },
+        {
+            "msg": "우리은행",
+            "href": "#"
+        },
+        {
+            "msg": "신한은행",
+            "href": "#"
+        },
+        {
+            "msg": "KEB하나은행",
+            "href": "#"
+        },
+        {
+            "msg": "새마을금고",
+            "href": "#"
+        },
+        {
+            "msg": "우체국뱅킹",
+            "href": "#"
+        },
+        {
+            "msg": "전북은행",
+            "href": "#"
+        },
+        {
+            "msg": "경남은행",
+            "href": "#"
+        },
+        {
+            "msg": "수협은행",
+            "href": "#"
+        },
+        {
+            "msg": "신협은행",
+            "href": "#"
+        },
+        {
+            "msg": "씨티은행",
+            "href": "#"
+        },
+        {
+            "msg": "광주은행",
+            "href": "#"
+        },
+        {
+            "msg": "대구은행",
+            "href": "#"
+        },
+        {
+            "msg": "제주은행",
+            "href": "#"
+        },
+        {
+            "msg": "경남은행",
+            "href": "#"
+        },
+        {
+            "msg": "부산은행",
+            "href": "#"
+        },
+        {
+            "msg": "SBI저축은행",
+            "href": "#"
+        }
+    ],
+    "尾部第八栏": [{
+            "msg": "듀오",
+            "href": "#"
+        },
+        {
+            "msg": "세이클럽",
+            "href": "#"
+        },
+        {
+            "msg": "클럽5678",
+            "href": "#"
+        },
+        {
+            "msg": "요기친구",
+            "href": "#"
+        },
+        {
+            "msg": "가연",
+            "href": "#"
+        },
+        {
+            "msg": "디노블",
+            "href": "#"
+        },
+        {
+            "msg": "코리아큐피트",
+            "href": "#"
+        },
+        {
+            "msg": "노블레스",
+            "href": "#"
+        },
+        {
+            "msg": "퍼플스",
+            "href": "#"
+        },
+        {
+            "msg": "엘림",
+            "href": "#"
+        },
+        {
+            "msg": "엔노블",
+            "href": "#"
+        },
+        {
+            "msg": "아미슈",
+            "href": "#"
+        },
+        {
+            "msg": "만남어때",
+            "href": "#"
+        },
+        {
+            "msg": "쿨타임",
+            "href": "#"
+        },
+        {
+            "msg": "세세세",
+            "href": "#"
+        },
+        {
+            "msg": "썸데이",
+            "href": "#"
+        },
+        {
+            "msg": "플메톡",
+            "href": "#"
+        },
+        {
+            "msg": "하늘사랑",
+            "href": "#"
+        },
+        {
+            "msg": "블랙챗",
+            "href": "#"
+        },
+        {
+            "msg": "제이노블",
+            "href": "#"
+        }
+    ],
+    "尾部第1栏头部信息": {
+        "title": "쇼핑/패션",
+        "icon": "https://ygy02.com/assets/images/etcico01.png"
+    },
+    "尾部第2栏头部信息": {
+        "title": "영화/TV",
+        "icon": "https://ygy02.com/assets/images/etcico02.png"
+    },
+    "尾部第3栏头部信息": {
+        "title": "음악/예술",
+        "icon": "https://ygy02.com/assets/images/etcico03.png"
+    },
+    "尾部第4栏头部信息": {
+        "title": "게임/오락",
+        "icon": "https://ygy02.com/assets/images/etcico04.png"
+    },
+    "尾部第5栏头部信息": {
+        "title": "방송/뉴스",
+        "icon": "https://ygy02.com/assets/images/etcico05.png"
+    },
+    "尾部第6栏头部信息": {
+        "title": "신문/서적",
+        "icon": "https://ygy02.com/assets/images/etcico06.png"
+    },
+    "尾部第7栏头部信息": {
+        "title": "생활/금융",
+        "icon": "https://ygy02.com/assets/images/etcico07.png"
+    },
+    "尾部第8栏头部信息": {
+        "title": "미팅/연애",
+        "icon": "https://ygy02.com/assets/images/etcico08.png"
+    }
+}

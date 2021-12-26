@@ -1,0 +1,54 @@
+{
+    "轮播图十条数据": [
+        {
+            "index": "1",
+            "title": "目中庄",
+            "href": "#"
+        },
+        {
+            "index": "2",
+            "title": "托特纳姆热刺",
+            "href": "#"
+        },
+        {
+            "index": "3",
+            "title": "新纪业",
+            "href": "#"
+        },
+        {
+            "index": "4",
+            "title": "Crew Lookbook",
+            "href": "#"
+        },
+        {
+            "index": "5",
+            "title": "康铉",
+            "href": "#"
+        },
+        {
+            "index": "6",
+            "title": "收集贝壳",
+            "href": "#"
+        },
+        {
+            "index": "7",
+            "title": "赵秀珍",
+            "href": "#"
+        },
+        {
+            "index": "8",
+            "title": "切尔西",
+            "href": "#"
+        },
+        {
+            "index": "9",
+            "title": "这里",
+            "href": "#"
+        },
+        {
+            "index": "10",
+            "title": "贾梅斯",
+            "href": "#"
+        }
+    ]
+}

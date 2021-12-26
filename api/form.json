@@ -1,0 +1,33 @@
+{
+    "提交目的链接": "#",
+    "搜索引擎列表": [
+        {
+            "title": "구글",
+            "href": "https://www.google.co.kr/search?q="
+        },
+        {
+            "title": "네이버",
+            "href": "https://search.naver.com/search.naver?sm=top_hty&fbm=1&ie=utf8&query="
+        },
+        {
+            "title": "다음",
+            "href": "https://search.daum.net/search?w=tot&DA=YZR&t__nil_searchbox=btn&sug=&sugo=&q="
+        },
+        {
+            "title": "네이트",
+            "href": "https://search.daum.net/nate?thr=sbma&w=tot&q="
+        },
+        {
+            "title": "줌",
+            "href": "http://search.zum.com/search.zum?method=uni&option=accu&rd=1&qm=f_typing.top&query="
+        },
+        {
+            "title": "유투브",
+            "href": "https://www.youtube.com/results?search_query="
+        },
+        {
+            "title": "VPN검색",
+            "href": "https://alohafind.com/search?q="
+        }
+    ]
+}
