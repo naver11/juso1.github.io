@@ -1,0 +1,18 @@
+{
+    "第一和二个广告图片数据": [{
+            "index": "1",
+            "imgUrl": "https://ygy02.com/upload_files/banner/20211221190234-banner-3.gif",
+            "href": "https://ygy02.com/ad?id=3"
+        },
+        {
+            "index": "2",
+            "imgUrl": "https://ygy02.com/upload_files/banner/20210628152111-banner-2.gif",
+            "href": "https://ygy02.com/ad?id=2"
+        }
+    ],
+    "第三个广告图片数据": [{
+        "index": "3",
+        "imgUrl": "https://ygy02.com/upload_files/banner/20211012123500-banner-4.gif",
+        "href": "https://ygy02.com/ad?id=4"
+    }]
+}
