@@ -1,7 +1,7 @@
 {
-    "网络卡通": [{
-            "title": "test",
-            "href": "#",
+    "웹툰": [{
+            "title": "네이버",
+            "href": "http://www.naver.com",
             "icon": "https://ygy02.com/assets/images/1.png",
             "imgUrl": "https://ygy02.com/upload_files/sites/20200929152103-site-11.png",
             "color": "#4d0000"
